@@ -1,5 +1,5 @@
 <div align="right" style="margin-top: 20px; margin-bottom: 20px;">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="290" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="310" />
 </div>
 
 
