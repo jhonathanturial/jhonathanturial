@@ -11,18 +11,20 @@ Olá, meu nome é Jhonathan!
 Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho atualmente como Estágiario Acadêmico de TI, mas estou com metas em me torna um Dev Back-End. 
 </div>
 
-</p>
+
 
 <br/>
 <br/>
 <br/>
 <br/>
-</p>
+
 <p align= "left">
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
 <a href = "mailto:jhonathan.turial@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jhonathan-turial-7367571aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+
+<h2></h2>
 
 <br/>
 <br/>
