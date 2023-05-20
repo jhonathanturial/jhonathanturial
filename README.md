@@ -49,7 +49,7 @@ Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "40" height = "40" />
 </div>
   
-<h2>Tecnologias</h2>
+<h2>Tecnologias:</h2>
 <div align= "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = "40" height = "40" /> 
 </div>
