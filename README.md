@@ -26,6 +26,7 @@ Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho 
 <br></br>
 <br></br>
 <br></br>
+
 ## Linguagens sendo estudadas:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40">  <img 
@@ -48,14 +49,22 @@ Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho 
 
 <br/>
 
+___
+
 <div align= "center">
 <a href="https://github.com/jhonathanturial">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanturial&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonathanturial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<br/> 
-<br/>
   
- <u></u>
+___
   
-  ![Snake animation](https://github.com/jhonathanturial/jhonathanturial/blob/output/github-contribution-grid-snake.svg)
+<u></u>
+  
+<div align="center">
+
+![Snake animation](https://github.com/jhonathanturial/jhonathanturial/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+  
+___
