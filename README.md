@@ -1,15 +1,16 @@
-<div>
-<p>
-<img align= "right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="290" />
-</p>
- 
-<p align= "right">
+<div align="right" style="margin-top: 20px; margin-bottom: 20px;">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="290" />
+</div>
+
+
+<div align= "left">
 
 ## BEM-VINDO AO MEU GITHUB!
 
 Olá, meu nome é Jhonathan!
-Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho atualmente como Estágiario Acadêmico de TI
-  
+Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho atualmente como Estágiario Acadêmico de TI, mas estou com metas em me torna um Dev Back-End. 
+</div>
+
 </p>
  
 </p>
@@ -18,7 +19,7 @@ Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho 
 <a href = "mailto:jhonathan.turial@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jhonathan-turial-7367571aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
-</div>
+
 
 
 
