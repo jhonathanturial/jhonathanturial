@@ -1,19 +1,21 @@
 <div>
- <img align= "left"alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align= "right"alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
- <p align= "right">
+<p align= "right">
 
- ## BEM-VINDO AO MEU GITHUB!
+## BEM-VINDO AO MEU GITHUB!
 
 Olá, meu nome é Jhonathan!
-Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho atualmente como Estágiario Acadêmico de Ti
+Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho atualmente como Estágiario Acadêmico de TI
+  
 </p>
+ 
 </p>
-<p align= "right">
+<p align= "left">
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
 <a href = "mailto:jhonathan.turial@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jhonathan-turial-7367571aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </p>
+</p>
 </div>
 
 
