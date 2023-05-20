@@ -41,7 +41,7 @@ Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho 
  src="https://cdn.iconscout.com/icon/free/png-512/free-spark-20-458193.png?f=avif&w=256" width = "60" height = "60" /> <img 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width = "40" height = "40" />
  
- ## Bibliotecas Java Script sendo estudada:
+ ## Bibliotecas Java Script sendo estudadas:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "40" height = "40" />
 
 ## Tecnologias
