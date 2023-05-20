@@ -16,8 +16,6 @@ Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 </p>
 <p align= "left">
@@ -26,14 +24,9 @@ Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho 
 <a href="https://www.linkedin.com/in/jhonathan-turial-7367571aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-
-
-
-<br></br>
-<br></br>
-<br></br>
-
-## Linguagens sendo estudadas:
+<br/>
+<br/>
+<h2>Linguagens sendo estudadas:</h2>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40">  <img 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40" height = "40" />
