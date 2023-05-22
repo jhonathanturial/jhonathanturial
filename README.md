@@ -8,7 +8,7 @@
 ## BEM-VINDO AO MEU GITHUB!
 
 Olá, meu nome é Jhonathan!
-Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho atualmente como Estágiario Acadêmico de TI, mas estou com metas em me torna um Dev Back-End. 
+Tenho 19 anos, estou cursando Engenharia de Software (3/8) na UNINTER, trabalho atualmente como Estágiario Acadêmico de TI, mas estou com metas de atuar na área de Desenvolvimento de Software. 
 </div>
 
 
