@@ -64,14 +64,14 @@ Tenho 19 anos, estou cursando Engenharia de Software (4/8) na UNINTER, trabalho 
   </a>
   
   
-  
+ 
 </div>
   
 <h2></h2>
   
 <div align="center">
 
-![Snake animation](https://github.com/jhonathanturial/jhonathanturial/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jhonathanturial/jhonathanturial/blob/output/github-contribution-grid-snake.svg)
 
 </div>
   
