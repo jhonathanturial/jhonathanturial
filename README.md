@@ -7,8 +7,16 @@
 
 ## BEM-VINDO AO MEU GITHUB!
 
-Olá, meu nome é Jhonathan!
-Tenho 20 anos, estou cursando Engenharia de Software (5/8) na UNINTER, trabalho atualmente como Técnico em Suporte de TI, tendo o objetivo de atuar na área de Desenvolvimento de Software. 
+Trabalhando como DBA (Database Administrator) com experiência em Engenharia de Dados. Minha paixão está em transformar dados em valor estratégico, garantindo a integridade, desempenho e segurança dos bancos de dados. Experiente em SQL Server, Oracle, MySQL e PostgreSQL com habilidades em Big Data, ETL e Cloud Computing.
+
+Habilidades técnicas:
+
+Bancos de dados: SQL Server, Oracle, MySQL, PostgreSQL
+Big Data e ETL: Apache Kafka, Spark, Hadoop, SSIS
+Linguagens: SQL, Python, Shell Scripting
+Nuvem: AWS, Azure, Google Cloud Platform
+Segurança e desempenho: Backup e recuperação, ajuste de desempenho
+
 </div>
 
 
